@@ -1,9 +1,5 @@
-phrase_item,adj,noun,condition_phrFreq,condition_exposure,blocktype,trialNr,phrase_fam,noun_fam,adj_fam,picture_file,picture_size
-Apfel_rot,rot,Apfel,hi,SP,cblock,1,Apfel_rot,Apfel,rot,blackA.png,500
-Baum_grun,grun,Baum,hi,SN,cblock,2,Baum_weiss,Baum,weiss,blackB.png,500
-Bett_grun,grun,Bett,lo,SP,cblock,3,Bett_grun,Bett,grun,greenA.png,500
-Blatt_schwarz,schwarz,Blatt,lo,SN,cblock,4,Blatt_schwarz,Blatt,schwarz,greenB.png,500
-Buch_grun,grun,Buch,lo,SP,cblock,6,Buch_grun,Buch,grun,newA.png,500
-Bus_schwarz,schwarz,Bus,lo,SN,cblock,7,Bus_schwarz,Bus,schwarz,newB.png,500
-Dach_rot,rot,Dach,hi,SP,cblock,8,Dach_rot,Dach,rot,redA.png,500
-Fabrik_rot,rot,Fabrik,lo,SP,cblock,10,Fabrik_rot,Fabrik,rot,redB.png,500
+itemNr,phrase_item,adj,noun,condition_phrFreq,condition_exposure,blocktype,trialNr,phrase_fam,noun_fam,adj_fam,picture_file_fam
+1,Dessert-gross,gross,Dessert,hi,SP,cblock,1,Dessert-gross,Dessert,gross,gross_Dessert.png
+3,Pfeil-gross,gross,Pfeil,hi,SN,cblock,2,Pfeil-gross,Pfeil,gross,gross_Pfeil.png
+4,Baby-klein,klein,Baby,lo,SP,cblock,3,Baby-klein,Baby,klein,klein_Baby.png
+6,Brille-klein,klein,Brille,lo,SN,cblock,4,Brille-klein,Brille,klein,klein_Brille.png
