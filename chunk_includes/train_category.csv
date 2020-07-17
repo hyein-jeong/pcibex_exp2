@@ -1,9 +1,9 @@
 itemNr,phrase_item,adj,noun,condition_phrFreq,condition_exposure,blocktype,trialNr,phrase_train_category,noun_train_category,adj_train_category,picture_file_tc,picture_size
-1,Apfel-rot,rot,Apfel,hi,SP,cblock,1,Apfel-rot,Apfel,rot,blackA.jpg,500
-3,Baum-grun,grun,Baum,hi,SN,cblock,2,Baum-weiss,Baum,weiss,blackB.jpg,500
-4,Bett-grun,grun,Bett,lo,SP,cblock,3,Bett-grun,Bett,grun,greenA.jpg,500
-6,Blatt-schwarz,schwarz,Blatt,lo,SN,cblock,4,Blatt-schwarz,Blatt,schwarz,greenB.jpg,500
-12,Buch-grun,grun,Buch,lo,SP,cblock,6,Buch-grun,Buch,grun,newA.jpg,500
-14,Bus-schwarz,schwarz,Bus,lo,SN,cblock,7,Bus-schwarz,Bus,schwarz,newB.jpg,500
-15,Dach-rot,rot,Dach,hi,SP,cblock,8,Dach-rot,Dach,rot,redA.jpg,500
-18,Fabrik-rot,rot,Fabrik,lo,SP,cblock,10,Fabrik-rot,Fabrik,rot,redB.jpg,500
+1,Apfel-rot,rot,Apfel,hi,SP,cblock,1,Apfel-rot,Apfel,rot,blackA.png,500
+3,Baum-grun,grun,Baum,hi,SN,cblock,2,Baum-weiss,Baum,weiss,blackB.png,500
+4,Bett-grun,grun,Bett,lo,SP,cblock,3,Bett-grun,Bett,grun,greenA.png,500
+6,Blatt-schwarz,schwarz,Blatt,lo,SN,cblock,4,Blatt-schwarz,Blatt,schwarz,greenB.png,500
+12,Buch-grun,grun,Buch,lo,SP,cblock,6,Buch-grun,Buch,grun,newA.png,500
+14,Bus-schwarz,schwarz,Bus,lo,SN,cblock,7,Bus-schwarz,Bus,schwarz,newB.png,500
+15,Dach-rot,rot,Dach,hi,SP,cblock,8,Dach-rot,Dach,rot,redA.png,500
+18,Fabrik-rot,rot,Fabrik,lo,SP,cblock,10,Fabrik-rot,Fabrik,rot,redB.png,500
