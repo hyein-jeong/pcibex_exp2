@@ -1,5 +1,4 @@
 <?php
-    via: https://github.com/hyein-jeong/pcibex_exp2/upload-recording.php
     header("Access-Control-Allow-Methods: POST, GET, OPTIONS");
     header('Access-Control-Allow-Headers: X-Requested-With, content-type, access-control-allow-methods');
     // Comment out the line below right after data collection
